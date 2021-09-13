@@ -1,0 +1,5 @@
+django==2.2.24
+pylint 
+autopep8
+
+black
